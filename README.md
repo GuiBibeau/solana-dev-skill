@@ -16,32 +16,18 @@ This skill provides Claude Code with deep knowledge of the current Solana develo
 
 ## Installation
 
-### Quick Install (Personal)
+### Quick Install
 
 ```bash
-# Clone and install to personal skills directory
-git clone https://github.com/GuiBibeau/solana-dev-skill.git
-cp -r solana-dev-skill/skill ~/.claude/skills/solana-dev
+npx add-skill https://github.com/GuiBibeau/solana-dev-skill
 ```
 
-### Quick Install (Project)
+### Manual Install
 
 ```bash
-# Install to project-specific skills directory
-cp -r solana-dev-skill/skill .claude/skills/solana-dev
-```
-
-### Using the Install Script
-
-```bash
-# Install to personal directory (default)
+git clone https://github.com/GuiBibeau/solana-dev-skill
+cd solana-dev-skill
 ./install.sh
-
-# Install to project directory
-./install.sh --project
-
-# Install to custom location
-./install.sh --path /custom/path/skills/solana-dev
 ```
 
 ## Skill Structure
