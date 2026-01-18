@@ -1,6 +1,7 @@
 # Curated Resources (Source-of-Truth First)
 
 ## Learning Platforms
+- [Turbin3](https://www.turbin3.org/) - The Solana Talent Engine
 - [Blueshift](https://learn.blueshift.gg/) - Free, open-source Solana learning platform
 - [Blueshift GitHub](https://github.com/blueshift-gg) - Course content and tools
 - [Solana Cookbook](https://solanacookbook.com/)

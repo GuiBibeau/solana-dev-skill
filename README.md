@@ -87,6 +87,7 @@ This skill encodes opinionated best practices:
 This skill incorporates best practices from:
 
 - [Blueshift Learning Platform](https://learn.blueshift.gg/) - Comprehensive Solana courses
+- [Turbin3](https://www.turbin3.org/) - The Solana Talent Engine
 - [Solana Official Documentation](https://solana.com/docs)
 - [Anza/Pinocchio](https://github.com/anza-xyz/pinocchio) - Zero-dependency program development
 - [LiteSVM](https://github.com/LiteSVM/litesvm) - Lightweight testing
